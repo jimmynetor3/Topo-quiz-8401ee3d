@@ -26,7 +26,7 @@ if ($antwoord1 == $stad) {
 }
 
 }
-echo count($score) . ' ' . "van de 10 goed";
+echo count($score) . ' ' . "van de " . count($landen) . " goed";
 
 
  ?>
